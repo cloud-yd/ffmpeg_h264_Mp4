@@ -1,0 +1,7 @@
+﻿  ffmpeg_remuxing.cpp
+f:\vs2017\workspace\ffmpeg_remuxing\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\vs2017\workspace\ffmpeg_remuxing\ffmpeg_remuxing.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2017\workspace\ffmpeg_remuxing\ffmpeg_remuxing.cpp(136): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+f:\vs2017\workspace\ffmpeg_remuxing\ffmpeg_remuxing.cpp(138): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+f:\vs2017\workspace\ffmpeg_remuxing\ffmpeg_remuxing.cpp(140): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+  ffmpeg_remuxing.vcxproj -> F:\VS2017\workspace\x64\Debug\ffmpeg_remuxing.exe
